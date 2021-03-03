@@ -1,7 +1,7 @@
 {
   "name": "emoji",
   "version": "0.1.0",
-  "homepage": "http://balamanikantan-dev.github.io/emoji-searchnpm",
+  "homepage": "https://balamanikantan-dev.github.io/emoji-search",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
